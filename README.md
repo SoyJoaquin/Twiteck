@@ -1,2 +1,2 @@
 # Twiteck
-Twitter App
+Aplicación cliente de Twitter
